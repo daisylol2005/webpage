@@ -26,6 +26,13 @@ p {
     font-size: 1.1em;
 }
 
+.love-image {
+    width: 100%; /* Responsive image */
+    border-radius: 10px; /* Rounded corners */
+    margin: 20px 0; /* Spacing */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
 p:last-child {
     font-style: italic; /* Makes the sign-off feel more special */
 }
